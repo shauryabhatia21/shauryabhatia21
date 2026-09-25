@@ -8,8 +8,8 @@
 <div align="center">
   <p align="center">
     <a href="https://www.bennett.edu.in/"><img src="https://img.shields.io/badge/Bennett_University-B.Sc._AI_(Data_Science)-blue?style=for-the-badge&logo=googleclassroom&logoColor=white" alt="Bennett University"/></a>
-    <a href="https://github.com/shauryabhatia10"><img src="https://img.shields.io/badge/First_Year-Active_Builder-brightgreen?style=for-the-badge&logo=rocket&logoColor=white" alt="First Year Builder"/></a>
-    <a href="https://github.com/shauryabhatia10?tab=repositories"><img src="https://img.shields.io/badge/Specialization-Data_Science_%26_AI-purple?style=for-the-badge&logo=codefactor&logoColor=white" alt="Focus"/></a>
+    <a href="https://github.com/shauryabhatia21"><img src="https://img.shields.io/badge/First_Year-Active_Builder-brightgreen?style=for-the-badge&logo=rocket&logoColor=white" alt="First Year Builder"/></a>
+    <a href="https://github.com/shauryabhatia21?tab=repositories"><img src="https://img.shields.io/badge/Specialization-Data_Science_%26_AI-purple?style=for-the-badge&logo=codefactor&logoColor=white" alt="Focus"/></a>
   </p>
 </div>
 
@@ -95,14 +95,15 @@ Currently, I am working on expanding my Data Science foundation (statistical ana
 
 | Repository | Tech Stack | Architectural Highlights | Key Engineering Metrics |
 |:---|:---|:---|:---:|
-| 🗄️ **[python-sql-projects](https://github.com/shauryabhatia10/python-sql-projects)** | `Python` `MySQL` `Pandas` `Tkinter` | **Multi-tier enterprise portfolio**: Relational schemas (`LIBRARY`, `BANK`, `STUDENT`), automated Gmail SMTP receipt generation, Pandas CSV data store, and OOP banking engines. | **100% Bytecode Verified**, 13 Modules, Relational Foreign Key Integrity |
-| 🧱 **[python-oop-foundations](https://github.com/shauryabhatia10/python-oop-foundations)** | `Python 3` `OOP` `Inheritance` | **Enterprise OOP & Core Foundations**: Object-Oriented SBI banking engine, single/multilevel inheritance (`PDetail -> Marks -> Result`), encapsulated inner classes, functional lambda/map/filter pipelines, and defensive exception handling. | **100% Bytecode Verified**, 8 Modules, Strict Error Hierarchies |
-| 📊 **[python-data-structures](https://github.com/shauryabhatia10/python-data-structures)** | `Python 3` `Data Structures` | **Collections & In-Memory Systems**: Comprehensive implementations of dynamic Lists, Dictionaries (hash maps), Tuples, and nested memory stores with CLI CRUD systems. | **100% Bytecode Verified**, 9 Modules, $O(1)$ Hash Map Lookups |
-| 🧠 **[python-ai-akinator](https://github.com/shauryabhatia10/python-ai-akinator)** | `Python` `Tkinter` `Decision Tree` | **Expert System AI Game**: Information entropy question selection, Bayesian confidence decay, dynamic Tkinter canvas animations, and interactive learning database. | $O(N \times Q)$ scoring, 30+ Knowledge Base Nodes, Zero external dependencies |
-| ⚙️ **[c-programming-foundations](https://github.com/shauryabhatia10/c-programming-foundations)** | `C (ANSI / C99)` `GCC` | **Foundational Systems & Flow Control**: 22 modular C programs covering arithmetic, switch-case jump tables, for/while loops, and ASCII character classifiers. | **100% GCC MinGW Verified**, 0 Warnings, Clean Source Tree |
-| 📊 **[Pandas & SQL Library System](https://github.com/shauryabhatia10/python-sql-projects/tree/main/PANDAS)** | `Python` `Pandas` `MySQL` `CSV` | **Data Persistence & Management**: Transactional records processing, schema constraints, relational book/member tracking, and automated email receipts. | Modular CRUD Architecture, Zero data loss, Dual CSV/SQL Backends |
-| 🎮 **[python-retro-arcade-games](https://github.com/shauryabhatia10/python-retro-arcade-games)** | `Python` `Pygame` | **2D Arcade Game Engine**: 5 classic arcade games (Space Invaders, Commando, Racing, etc.) with real-time collision detection, sound mixing, and state machines. | 60 FPS Delta Loop, Pixel-Perfect Collision detection |
-| 📘 **[python-basic-programs](https://github.com/shauryabhatia10/python-basic-programs)** | `Python 3` `Algorithms` | **Foundational Algorithm Suite**: 24 isolated algorithms covering prime factorization ($O(\sqrt{N})$), Euclidean GCD, Armstrong verification, and dynamic matrix patterns. | **24 Modular Scripts**, Clean asymptotic complexity, PEP8 Compliant |
+| 🏦 **[loan-approval-prediction-system](https://github.com/shauryabhatia21/loan-approval-prediction-system)** | `React 19` `TypeScript` `Vite` `TailwindCSS` | **Full-Stack AI FinTech Platform**: Multi-step risk assessment engine, lender comparison matrix, dynamic EMI amortizer, and transparent explainable AI factor breakdowns. | **Production-grade Vite Build**, Zero Lint Errors, 100% Responsive UI |
+| 🗄️ **[python-sql-projects](https://github.com/shauryabhatia21/python-sql-projects)** | `Python` `MySQL` `Pandas` `Tkinter` | **Multi-tier enterprise portfolio**: Relational schemas (`LIBRARY`, `BANK`, `STUDENT`), automated Gmail SMTP receipt generation, Pandas CSV data store, and OOP banking engines. | **100% Bytecode Verified**, 13 Modules, Relational Foreign Key Integrity |
+| 🧱 **[python-oop-foundations](https://github.com/shauryabhatia21/python-oop-foundations)** | `Python 3` `OOP` `Inheritance` | **Enterprise OOP & Core Foundations**: Object-Oriented SBI banking engine, single/multilevel inheritance (`PDetail -> Marks -> Result`), encapsulated inner classes, functional lambda/map/filter pipelines, and defensive exception handling. | **100% Bytecode Verified**, 8 Modules, Strict Error Hierarchies |
+| 📊 **[python-data-structures](https://github.com/shauryabhatia21/python-data-structures)** | `Python 3` `Data Structures` | **Collections & In-Memory Systems**: Comprehensive implementations of dynamic Lists, Dictionaries (hash maps), Tuples, and nested memory stores with CLI CRUD systems. | **100% Bytecode Verified**, 9 Modules, $O(1)$ Hash Map Lookups |
+| 🧠 **[python-ai-akinator](https://github.com/shauryabhatia21/python-ai-akinator)** | `Python` `Tkinter` `Decision Tree` | **Expert System AI Game**: Information entropy question selection, Bayesian confidence decay, dynamic Tkinter canvas animations, and interactive learning database. | $O(N \times Q)$ scoring, 30+ Knowledge Base Nodes, Zero external dependencies |
+| ⚙️ **[c-programming-foundations](https://github.com/shauryabhatia21/c-programming-foundations)** | `C (ANSI / C99)` `GCC` | **Foundational Systems & Flow Control**: 29 modular C programs covering arithmetic, switch-case jump tables, for/while loops, and ASCII character classifiers. | **100% GCC MinGW Verified**, 0 Warnings, Clean Source Tree |
+| 📊 **[Pandas & SQL Library System](https://github.com/shauryabhatia21/python-sql-projects/tree/main/PANDAS)** | `Python` `Pandas` `MySQL` `CSV` | **Data Persistence & Management**: Transactional records processing, schema constraints, relational book/member tracking, and automated email receipts. | Modular CRUD Architecture, Zero data loss, Dual CSV/SQL Backends |
+| 🎮 **[python-retro-arcade-games](https://github.com/shauryabhatia21/python-retro-arcade-games)** | `Python` `Pygame` | **2D Arcade Game Engine**: 5 classic arcade games (Space Invaders, Commando, Racing, etc.) with real-time collision detection, sound mixing, and state machines. | 60 FPS Delta Loop, Pixel-Perfect Collision detection |
+| 📘 **[python-basic-programs](https://github.com/shauryabhatia21/python-basic-programs)** | `Python 3` `Algorithms` | **Foundational Algorithm Suite**: 24 isolated algorithms covering prime factorization ($O(\sqrt{N})$), Euclidean GCD, Armstrong verification, and dynamic matrix patterns. | **24 Modular Scripts**, Clean asymptotic complexity, PEP8 Compliant |
 
 ---
 
@@ -128,12 +129,12 @@ Currently, I am working on expanding my Data Science foundation (statistical ana
 ### 📊 GitHub Activity & Development Velocity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shauryabhatia10&show_icons=true&theme=radical&hide_border=true&count_private=true" height="175" alt="Shaurya's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shauryabhatia10&layout=compact&theme=radical&hide_border=true" height="175" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shauryabhatia21&show_icons=true&theme=radical&hide_border=true&count_private=true" height="175" alt="Shaurya's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shauryabhatia21&layout=compact&theme=radical&hide_border=true" height="175" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shauryabhatia10&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shauryabhatia21&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ---
