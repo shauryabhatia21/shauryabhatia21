@@ -1,15 +1,15 @@
 <div align="center">
   <h1>⚡ Shaurya Bhatia</h1>
-  <p><strong>🎓 B.Sc. Artificial Intelligence (Data Science Specialization) @ Bennett University</strong></p>
+  <p><strong>🎓 B.Tech Computer Science & Engineering (CSE Core) @ Bennett University</strong></p>
   <p><i>Python, Data Science Pipelines (Pandas, NumPy, Matplotlib) & Relational SQL Systems</i></p>
 </div>
 
 
 <div align="center">
   <p align="center">
-    <a href="https://www.bennett.edu.in/"><img src="https://img.shields.io/badge/Bennett_University-B.Sc._AI_(Data_Science)-blue?style=for-the-badge&logo=googleclassroom&logoColor=white" alt="Bennett University"/></a>
+    <a href="https://www.bennett.edu.in/"><img src="https://img.shields.io/badge/Bennett_University-B.Tech_CSE_(Core)-blue?style=for-the-badge&logo=googleclassroom&logoColor=white" alt="Bennett University"/></a>
     <a href="https://github.com/shauryabhatia21"><img src="https://img.shields.io/badge/First_Year-Active_Builder-brightgreen?style=for-the-badge&logo=rocket&logoColor=white" alt="First Year Builder"/></a>
-    <a href="https://github.com/shauryabhatia21?tab=repositories"><img src="https://img.shields.io/badge/Specialization-Data_Science_%26_AI-purple?style=for-the-badge&logo=codefactor&logoColor=white" alt="Focus"/></a>
+    <a href="https://github.com/shauryabhatia21?tab=repositories"><img src="https://img.shields.io/badge/Specialization-Computer_Science_%26_Engineering-purple?style=for-the-badge&logo=codefactor&logoColor=white" alt="Focus"/></a>
   </p>
 </div>
 
@@ -17,7 +17,7 @@
 
 ### 👨‍💻 About Me
 
-Hi! I am **Shaurya Bhatia**, currently in my 1st semester pursuing **B.Sc. in Artificial Intelligence with a specialization in Data Science** at **Bennett University** (Batch 2026–2029).
+Hi! I am **Shaurya Bhatia**, currently in my 1st semester pursuing **B.Tech in Computer Science and Engineering (CSE Core)** at **Bennett University** (Batch 2026–2030).
 
 I enjoy hands-on programming and building practical projects from scratch. My focus is on writing clean, modular Python, exploring data with NumPy and Pandas, designing relational MySQL schemas, and understanding core computer science foundations (Data Structures, OOP, and C Programming).
 
@@ -120,7 +120,7 @@ Currently, I am working on expanding my Data Science foundation (statistical ana
 
 ### 🎯 Academic & Professional Pursuits
 
-- **Undergraduate Studies:** B.Sc. Artificial Intelligence (Semester 1), Bennett University.
+- **Undergraduate Studies:** B.Tech Computer Science & Engineering (CSE Core), Semester 1, Bennett University.
 - **Actively Preparing For:** **Google STEP Internship**, AI & Machine Learning Hackathons, Open-Source Contributions (GSoC), and AI Research.
 - **Areas of Exploration:** Heuristic Search, Neural Network Architectures, Statistical Learning, and Scalable Data Pipelines.
 
