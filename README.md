@@ -69,6 +69,9 @@ Currently, I am working on expanding my Data Science foundation (statistical ana
 
 #### Core Languages & Data Formats
 ![Python](https://img.shields.io/badge/Python_3.12-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![C](https://img.shields.io/badge/C_Language-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL_8.0-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL](https://img.shields.io/badge/ANSI_SQL-CC292B?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -78,12 +81,14 @@ Currently, I am working on expanding my Data Science foundation (statistical ana
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=scipy&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Tkinter](https://img.shields.io/badge/Tkinter-GUI_Desktop-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pygame](https://img.shields.io/badge/Pygame-2D_Engine-green?style=for-the-badge&logo=python&logoColor=white)
 
 #### Developer Tools & Workflows
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-4E1B94?style=for-the-badge&logo=powershell&logoColor=white)
 
@@ -95,6 +100,7 @@ Currently, I am working on expanding my Data Science foundation (statistical ana
 
 | Repository | Tech Stack | Architectural Highlights | Key Engineering Metrics |
 |:---|:---|:---|:---:|
+| 🛍️ **[Braj Poshak — E-Commerce Store](https://brajposhakwebsite-phi.vercel.app/)** <br/> *(🔒 Private Production)* | `HTML5` `CSS3` `JavaScript` `Node.js` `Nodemailer` `Vercel` | **Full-Stack Retail E-Commerce Platform**: Complete production storefront for traditional Thakurji attire. Features secure crypto HMAC-SHA256 OTP verification, dynamic shopping cart & checkout, serverless transactional email dispatch via Nodemailer, and responsive UI. | **Live Production Store**, 100% Mobile Responsive, Fast Serverless Delivery |
 | 🏦 **[loan-approval-prediction-system](https://github.com/shauryabhatia21/loan-approval-prediction-system)** | `React 19` `TypeScript` `Vite` `TailwindCSS` | **Full-Stack AI FinTech Platform**: Multi-step risk assessment engine, lender comparison matrix, dynamic EMI amortizer, and transparent explainable AI factor breakdowns. | **Production-grade Vite Build**, Zero Lint Errors, 100% Responsive UI |
 | 🗄️ **[python-sql-projects](https://github.com/shauryabhatia21/python-sql-projects)** | `Python` `MySQL` `Pandas` `Tkinter` | **Multi-tier enterprise portfolio**: Relational schemas (`LIBRARY`, `BANK`, `STUDENT`), automated Gmail SMTP receipt generation, Pandas CSV data store, and OOP banking engines. | **100% Bytecode Verified**, 13 Modules, Relational Foreign Key Integrity |
 | 🧱 **[python-oop-foundations](https://github.com/shauryabhatia21/python-oop-foundations)** | `Python 3` `OOP` `Inheritance` | **Enterprise OOP & Core Foundations**: Object-Oriented SBI banking engine, single/multilevel inheritance (`PDetail -> Marks -> Result`), encapsulated inner classes, functional lambda/map/filter pipelines, and defensive exception handling. | **100% Bytecode Verified**, 8 Modules, Strict Error Hierarchies |
