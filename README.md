@@ -1,7 +1,10 @@
 <div align="center">
   <h1>⚡ Shaurya Bhatia</h1>
-  <p><strong>🎓 B.Tech Computer Science & Engineering (CSE Core) @ Bennett University</strong></p>
-  <p><i>Python, Data Science Pipelines (Pandas, NumPy, Matplotlib) & Relational SQL Systems</i></p>
+  <p><strong>🎓 B.Tech Computer Science & Engineering (CSE Core) @ Bennett University (2026–2030)</strong></p>
+  
+  <a href="https://github.com/shauryabhatia21">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=22C55E&center=true&vCenter=true&width=550&lines=Full-Stack+%26+Systems+Software+Engineer;React+19+%7C+TypeScript+%7C+Python+%7C+SQL;Building+Scalable+FinTech+%26+Cloud+Platforms;Preparing+for+Google+STEP+Internship" alt="Typing SVG" />
+  </a>
 </div>
 
 
@@ -10,6 +13,7 @@
     <a href="https://www.bennett.edu.in/"><img src="https://img.shields.io/badge/Bennett_University-B.Tech_CSE_(Core)-blue?style=for-the-badge&logo=googleclassroom&logoColor=white" alt="Bennett University"/></a>
     <a href="https://github.com/shauryabhatia21"><img src="https://img.shields.io/badge/First_Year-Active_Builder-brightgreen?style=for-the-badge&logo=rocket&logoColor=white" alt="First Year Builder"/></a>
     <a href="https://github.com/shauryabhatia21?tab=repositories"><img src="https://img.shields.io/badge/Specialization-Computer_Science_%26_Engineering-purple?style=for-the-badge&logo=codefactor&logoColor=white" alt="Focus"/></a>
+    <img src="https://komarev.com/ghpvc/?username=shauryabhatia21&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
   </p>
 </div>
 
@@ -17,9 +21,9 @@
 
 ### 👨‍💻 About Me
 
-Hi! I am **Shaurya Bhatia**, currently in my 1st semester pursuing **B.Tech in Computer Science and Engineering (CSE Core)** at **Bennett University** (Batch 2026–2030).
+Hi! I am **Shaurya Bhatia**, currently pursuing **B.Tech in Computer Science and Engineering (CSE Core)** at **Bennett University** (Batch 2026–2030).
 
-I enjoy hands-on programming and building practical projects from scratch. My focus is on writing clean, modular Python, exploring data with NumPy and Pandas, designing relational MySQL schemas, and understanding core computer science foundations (Data Structures, OOP, and C Programming).
+I enjoy hands-on engineering and building robust, production-grade applications from scratch. My focus spans architecting full-stack React & TypeScript FinTech platforms, building scalable serverless cloud backends, designing normalized relational MySQL schemas, and mastering core computer science foundations (Data Structures, OOP, and C Systems).
 
 Rather than just using high-level libraries blindly, I like to understand how things work under the hood—from memory management in dynamic arrays and hash maps to decision trees and mathematical algorithms.
 
@@ -135,12 +139,12 @@ Currently, I am working on expanding my Data Science foundation (statistical ana
 ### 📊 GitHub Activity & Development Velocity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shauryabhatia21&show_icons=true&theme=radical&hide_border=true&count_private=true" height="175" alt="Shaurya's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shauryabhatia21&layout=compact&theme=radical&hide_border=true" height="175" alt="Top Languages"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=shauryabhatia21&show_icons=true&theme=radical&hide_border=true&count_private=true" height="175" alt="Shaurya's GitHub Stats"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=shauryabhatia21&layout=compact&theme=radical&hide_border=true" height="175" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shauryabhatia21&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=shauryabhatia21&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ---
