@@ -1,8 +1,8 @@
 <div align="center">
 
-  <!-- Minimalist Executive Typing Banner -->
+  <!-- Minimalist Executive Typing Banner (Only 2 Lines) -->
   <a href="https://github.com/shauryabhatia21">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=3000&pause=1000&color=F8FAFC&background=0D111700&center=true&vCenter=true&multiline=true&width=750&height=85&lines=Shaurya+Bhatia;Software+Engineer+%E2%80%A2+Python+Developer;Designing+Clean+Architecture+%26+Intelligent+Systems" alt="Shaurya Bhatia Minimalist Header" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=3000&pause=1000&color=F8FAFC&background=0D111700&center=true&vCenter=true&multiline=true&width=750&height=80&lines=Shaurya+Bhatia;Software+Engineer+%E2%80%A2+Python+Developer" alt="Shaurya Bhatia" />
   </a>
 
   <!-- Slate Monochrome Badges -->
