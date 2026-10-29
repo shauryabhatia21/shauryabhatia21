@@ -65,6 +65,20 @@
 
 ---
 
+### Certifications & Accreditations
+
+<table>
+  <tr>
+    <td width="100%" valign="top">
+      <h4><a href="https://github.com/shauryabhatia21/Certifications">📜 Digital Design - Hands On — Maven Silicon</a></h4>
+      <p>Comprehensive hands-on training in digital logic design, RTL modeling, combinational & sequential circuits, FSMs, and RISC-V digital architecture fundamentals. Certified by Maven Silicon (RISC-V Training Partner).</p>
+      <sub><code>Digital Design</code> • <code>Verilog HDL</code> • <code>RTL</code> • <code>RISC-V</code> • <code>MSUID: 9921102864</code> • <a href="https://github.com/shauryabhatia21/Certifications/tree/main/Digital-Design-Hands-On-Maven-Silicon"><b>View Certificate ↗</b></a></sub>
+    </td>
+  </tr>
+</table>
+
+---
+
 ### Engineering Metrics
 
 <div align="center">
